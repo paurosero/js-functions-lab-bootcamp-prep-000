@@ -10,3 +10,7 @@ function happyHolidayTo(holiday, name){
   return "Happy Independence Day, you!"
   console.log('Happy ${holiday}, ${name}!')
 }
+function holidayCountdown(holiday, days){
+  return "Its's 23 days until Christmas!"
+  console.log('its\'s ${days} days until ${holiday}!')
+}
